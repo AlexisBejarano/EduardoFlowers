@@ -1,0 +1,14 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 31 oct. 2024, 14:55:09
+    Author     : Aletz
+
+*/
+.eb-garamond-unique {
+            font-family: "EB Garamond", serif;
+            font-optical-sizing: auto;
+            font-weight: 400; /* Cambia 400 por el peso deseado entre 400 y 800 */
+        }
