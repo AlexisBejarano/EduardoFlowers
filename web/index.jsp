@@ -126,7 +126,7 @@
             </div>
 
             <!-- Menú principal -->
-            <ul class="flex justify-center space-x-8 py-2 font-semibold text-gray-700 text-sm md:text-base">
+            <ul class="flex justify-center space-x-5 py-2 font-semibold text-gray-700 text-sm md:text-base">
                 <li><a href="#">Inicio
                         <li><a href="#">Catálogo</a></li>
                         <li><a href="#">Estudio</a></li>
